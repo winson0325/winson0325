@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫graduate computer science from Taiwan<br>✨Full stack developer<br>💖popping/anime/kpop/cat lover<br>🛸2 years of code & dancing teaching experience
+Full stack developer<br>popping/anime/kpop/cat lover
 
 
 ## 🌐 Socials:
